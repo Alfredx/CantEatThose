@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">不能吃那两个！</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="test">Alfred! Get to work!</string>
+    <string name="start">Start</string>
+    <string name="tips">Tips</string>
+    <string name="title_activity_choose">挑选食物</string>
+    <string name="submit">Submit</string>
+    <string name="cantfind">Can\'t Find?</string>
+    <string name="title_activity_tips">小贴士</string>
+    <string name="iknow">I know!</string>
+    <string name="title_activity_result">饮食搭配</string>
+    <string name="tryagain">Try Again?</string>
+    <string name="title_activity_choose_by_name">搜索</string>
+    <string name="DBDATA_SER_KEY">com.tongji.sitp.cateatthose.database.dbdata</string>
+    <string name="TIP_SER_KEY">com.tongji.sitp.cateatthose.tip</string>
+
+</resources>
